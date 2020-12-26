@@ -1,0 +1,9 @@
+{
+  "energizedSpire:RegainFocusPower": {
+    "NAME": "Востановление фокусировки",
+    "DESCRIPTIONS": [
+      "В начале хода востановите #b",
+      " Фокуса."
+    ]
+  }
+}

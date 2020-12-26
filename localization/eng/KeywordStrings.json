@@ -1,0 +1,23 @@
+{
+  "energizedSpire:ReceptionProblemsKeyword": {
+    "PROPER_NAME": "Проблемы с приёмом",
+    "NAMES": [
+      "Проблемы с приёмом"
+    ],
+    "DESCRIPTION": "Проблемы с приёмом это неиграбельный статус и когда вы его берёте вы теряете #b2 #yФокуса до конца хода."
+  },
+  "energizedSpire:DepressionKeyword": {
+    "PROPER_NAME": "Депресия",
+    "NAMES": [
+      "Депресия"
+    ],
+    "DESCRIPTION": "В этом #yСостоянии, вы будете добирать на #b1 карту меньше каждый ход."
+  },
+  "energizedSpire:BurningRoomsKeyword": {
+    "PROPER_NAME": "Горящие комнаты",
+    "NAMES": [
+      "Горящие комнаты"
+    ],
+    "DESCRIPTION": "Враги усилены и когда вы их убиваете вы получаете Эмеральдовый Ключ ."
+  }
+}
